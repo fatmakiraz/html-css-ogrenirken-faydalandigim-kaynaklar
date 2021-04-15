@@ -13,6 +13,13 @@
 - [45 Dakikada Yeni Başlayanlar İçin SASS](https://www.youtube.com/watch?v=EMCH1NiOJ8Y)
 - [40 Dakikada CSS Grid Yapısı](https://www.youtube.com/watch?v=kI77jbuMU1Y)
 - [CSS Grid | Real world examples](https://www.youtube.com/watch?v=YnYdwezNjNg)
+- [CSS Birimleri(uygun CSS birimlerinin kullanımı)](https://www.youtube.com/watch?v=N5wpD9Ov_To)
+- [CSS Birimleri(font-size için neden em kullanılmamalı?)](https://www.youtube.com/watch?v=pautqDqa54I)
+- [CSS Birimleri(em ve rem kullanımı ve etki alanları)](https://www.youtube.com/watch?v=_-aDOAMmDHI)
+- [CSS Birimleri(vh, vw, vmin, vmax)](https://www.youtube.com/watch?v=IWFqGsXxJ1E)
+- [BEM Metodolojisi Kullanım Örneği](https://www.youtube.com/watch?v=vg6vq-KMXTw)
+- [BEM Kullanımı](https://www.youtube.com/watch?v=SLjHSVwXYq4)
+- [BEM Kullanımı 2](https://www.youtube.com/watch?v=er1JEDuPbZQ)
 
 ## Yardımcı Kaynaklar
 - [HTML Elemanları](https://www.w3schools.com/tags/default.asp)
@@ -25,6 +32,15 @@
 - [CSS Flexbox Rehberi](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [CSS Grid Rehberi](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [HTML - CSS Özelliklerinin Tarayıcılarda Desteklenme Durumlarının Kontrolü ](https://caniuse.com/)
+- [CSS Seçicileri](https://medium.com/backticks-tildes/understanding-css-selectors-26fe2ea19132)
+- [CSS Tilde(~) Seçicisi](https://www.w3docs.com/snippets/css/what-does-the-css-tilde-selector-mean.html)
+- [CSS Birimleri Kullanım Önerileri](https://medium.com/dev-genius/a-bite-sized-best-practices-guide-for-css-units-em-rem-px-and-more-f621c0d56df4)
+- [Ömer Gülçiçek - Airbnb CSS/Sass Rehberi](https://github.com/omergulcicek/css-stil-rehberi)
+- [BEM Rehberi](https://css-tricks.com/bem-101/)
+- [BEM Rehberi 2](https://www.toptal.com/css/introduction-to-bem-methodology)
+- [BEM Metodolojisi Kullanım Örneği](https://scalablecss.com/bem-css-examples/)
+- [BEM Metodolojisi Kullanım Örneği 2](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+- [Object Oriented CSS(OOCSS) Kullanımı](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 
 ## Tasarım Kaynakları
 Pratik yapmak için aşağıdaki adreslerden ücretsiz tasarımlar bulabilirsiniz. GitHub gibi platformlarda yayınlamak üzere tasarım sahipleri ile iletişim kurarak yayınlama öncesinde izin almanızı tavsiye ediyorum.
@@ -40,3 +56,5 @@ Pratik yapmak için aşağıdaki adreslerden ücretsiz tasarımlar bulabilirsini
 
 ## Pratik Yaptığım Çalışmalar
 - [Personal Blog Template](https://github.com/hey-fk/personal-blog-template)
+- [Pure CSS Half Star Rating](https://codepen.io/hey-fk/pen/xxgXgxM)
+- [Product & Checkout E-Commerce Template](https://github.com/hey-fk/product-checkout-e-commerce-template)
