@@ -58,3 +58,4 @@ Pratik yapmak için aşağıdaki adreslerden ücretsiz tasarımlar bulabilirsini
 - [Personal Blog Template](https://github.com/hey-fk/personal-blog-template)
 - [Pure CSS Half Star Rating](https://codepen.io/hey-fk/pen/xxgXgxM)
 - [Product & Checkout E-Commerce Template](https://github.com/hey-fk/product-checkout-e-commerce-template)
+- [Landify Landing Page Template](https://github.com/hey-fk/landify-landing-page-template)
