@@ -41,6 +41,15 @@
 - [BEM Metodolojisi Kullanım Örneği](https://scalablecss.com/bem-css-examples/)
 - [BEM Metodolojisi Kullanım Örneği 2](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 - [Object Oriented CSS(OOCSS) Kullanımı](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
+- [Wrapper ve Container'ların BEM Metodolojisi'ne göre Adlandırılması](https://itnext.io/how-to-name-containers-and-wrappers-in-bem-a12c6ad3f943)
+- [Favicon Ekleme](https://www.yusufsezer.com.tr/html-favicon-ekleme/)
+- [CSS Transition](https://www.yusufsezer.com.tr/css3-transition/)
+- [SCSS](https://medium.com/bursa-i-o/k%C4%B1saca-scss-f026566182cd)
+- [CSS Even/Odd](https://www.w3.org/Style/Examples/007/evenodd.en.html)
+- [CSS Scroll Margin](https://css-tricks.com/almanac/properties/s/scroll-margin/)
+- [CSS Selection](https://css-tricks.com/almanac/selectors/s/selection/)
+- [CSS Scroll Behaviour](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior)
+- [Kötü Bir Arayüz Programcısı Olmanın 11 Mükemmel Yolu](https://medium.com/turkce/k%C3%B6t%C3%BC-bir-aray%C3%BCz-programc%C4%B1s%C4%B1-olman%C4%B1n-11-m%C3%BCkemmel-yolu-22d010c4988a)
 
 ## Tasarım Kaynakları
 Pratik yapmak için aşağıdaki adreslerden ücretsiz tasarımlar bulabilirsiniz. GitHub gibi platformlarda yayınlamak üzere tasarım sahipleri ile iletişim kurarak yayınlama öncesinde izin almanızı tavsiye ediyorum.
